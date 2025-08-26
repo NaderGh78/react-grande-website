@@ -2,7 +2,7 @@
   "name": "grande-react-proj",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://NaderGh78.github.io/Grande-React",
+  "homepage": "https://NaderGh78.github.io/react-grande-website",
   "dependencies": {
     "@popperjs/core": "^2.11.8",
     "@reduxjs/toolkit": "^2.5.0",
